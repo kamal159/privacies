@@ -1,0 +1,30 @@
+Application Policy
+
+Welcome to Story Saver App, an app that allows you to view,  save and share WhatsApp status updates. This policy explains how we collect, use, and protect your information when you use our app.
+
+Data Collection
+
+Story Saver App collects WhatsApp status updates in the form of images and videos from users who choose to save them using our app. We do not collect any other information from users.
+
+Data Use
+
+The WhatsApp status updates collected by Story Saver App are used to provide users with the ability to view, save and share the updates. We do not share these updates with any third-party services.
+
+Permission
+
+Story Saver App requests for permission to access the device storage to save the status updates that user choose to save. User can deny the permission, in that case the app will not be able to save the status.
+
+Compliance with Laws and Regulations
+
+Story Saver App is compliant with all relevant laws and regulations related to data privacy. We take the protection of user data seriously and have implemented appropriate security measures to ensure the confidentiality and integrity of the data we collect.
+
+User Control
+
+Users have the ability to request that their saved WhatsApp status updates be deleted from our servers at any time. Additionally, they can request that their data be shared with them.
+
+Security
+
+Story Saver App takes the security and confidentiality of user data seriously. We have implemented appropriate technical and organizational measures to prevent unauthorized access and data breaches. We regularly review and update these measures to ensure that user data is protected.
+
+If you have any questions or concerns about this policy or our data practices, please contact us at
+storysaverapp.oliver@gmail.com
